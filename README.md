@@ -1,5 +1,4 @@
-Gestion de tareas que permite la creacion, eliminacion, y modificacion de tareas.
-Cuando sleccionas una tarea, puedes tener las opcion de eliminarla, o modificarla.
+Gestor de tareas que permite la creacion, eliminacion, y modificacion de tareas. Cuando seleccionas una tarea, puedes tener las opcion de eliminarla, o modificarla.Abajo estan las instrucciones para el uso del gestor de tareas.
 
 Para agregar una nueva tarea:
 Escribe una tarea en el area de texto, y despues dale click al boton Create/Add.
