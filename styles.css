@@ -1,0 +1,47 @@
+.textarea1{
+    resize: vertical;
+    font-size: larger;
+    font-family: serif;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+.label1{
+    font-size: larger;
+}
+
+.form1{
+    margin-top: 50px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.div1{
+    margin-top: 50px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+ol{
+    font-size: larger;
+}
+
+button{
+    width: 100px;
+    height: 25px;
+}
+
+li{
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    padding-right: 10px;
+    padding-bottom: 5px;
+}
+
+.button2{
+
+    margin-left: 30px;
+}
+
