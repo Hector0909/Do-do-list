@@ -1,13 +1,14 @@
 
-# Instrucciones
-Para agregar una nueva tarea:
-Escribe una tarea en el area de texto, y despues dale click al boton Create/Add.
+#Instrucciones
 
-Para eliminar una tarea:
-Selecciona una tarea y despues dale click al boton Delete.
+Agregar una tarea:
+Escribe una tarea en el area de texto, y despues dale click al boton de crear.
 
-Para modificar una tarea:
-Primero debes seleccionar una tarea, luego cambiar el texto en la area de texto, finalmente le das click al boton Update.
+Eliminar una tarea:
+Selecciona una tarea y despues dale click al boton delete.
+
+Modificar una tarea:
+Primero debes seleccionar una tarea, luego cambiar el texto en la area de texto, finalmente le das click al boton de editar.
 
 
 
